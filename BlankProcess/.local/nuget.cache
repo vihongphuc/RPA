@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkKC3LOIPYnf0YRfVdCqQ2cmO9TlMF3jBm9pAHqrR+ez3yuuUphuoGR9UC/oj4dH7t+0YEBfbgQjgWsha78awQ==",
+  "dgSpecHash": "PKl+wUbkpiUncOLudZkusA+Z4/LY/PcwErW/DeM8BD8DABVVGJXY/pDcH+Xij0BOqxZ8h0B5CdqsE9RSF6oygw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hongphucvi\\Documents\\UiPath\\Projects\\BlankProcess\\.local\\",
+  "projectFilePath": "C:\\Users\\hongphucvi\\Documents\\GitHub\\RPA\\BlankProcess\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\hongphucvi\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\hongphucvi\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -70,18 +70,5 @@
     "C:\\Users\\hongphucvi\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\uipath.uiautomation.activities.21.4.4.nupkg.sha512",
     "C:\\Users\\hongphucvi\\.nuget\\packages\\uipath.vision\\3.0.1\\uipath.vision.3.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\hongphucvi\\Documents\\UiPath\\Projects\\BlankProcess\\.local",
-      "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.3 was resolved.",
-      "libraryId": "System.Memory",
-      "targetGraphs": [
-        ".NETFramework,Version=v4.6.1",
-        ".NETFramework,Version=v4.6.1/win7-x86"
-      ]
-    }
-  ]
+  "logs": []
 }

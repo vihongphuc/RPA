@@ -5017,9 +5017,9 @@
     "restore": {
       "projectUniqueName": "BlankProcess",
       "projectName": "BlankProcess",
-      "projectPath": "C:\\Users\\hongphucvi\\Documents\\UiPath\\Projects\\BlankProcess\\.local",
+      "projectPath": "C:\\Users\\hongphucvi\\Documents\\GitHub\\RPA\\BlankProcess\\.local",
       "packagesPath": "C:\\Users\\hongphucvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hongphucvi\\Documents\\UiPath\\Projects\\BlankProcess\\.local"
+      "outputPath": "C:\\Users\\hongphucvi\\Documents\\GitHub\\RPA\\BlankProcess\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5048,18 +5048,5 @@
         "runtimeIdentifierGraphPath": "C:\\Users\\hongphucvi\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.3 was resolved.",
-      "libraryId": "System.Memory",
-      "targetGraphs": [
-        ".NETFramework,Version=v4.6.1",
-        ".NETFramework,Version=v4.6.1/win7-x86"
-      ]
-    }
-  ]
+  }
 }
