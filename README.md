@@ -2,13 +2,12 @@
 - We do the demo on features of UiPath with UiStudio Comunity
 - We are only have one main branch included many folder on each prject on one feature demo.
 
-
 ## I. BlankProcess project
 - Open Website URL.
 - Copy one text in this page.
 - Pasted it on the notepad file
-- And save it.
-[ ] Check if the file is existed and we halding with the confirm messagebox to override it.
+- And save it. 
+[ ] Check if the file is existed and we halding with the confirm message box to override it.
 [ ] If it is not, we will save it in the normal way.
 - Refferal Links:
 > [Basic process](https://docs.uipath.com/studio/docs/creating-basic-process)
@@ -21,6 +20,5 @@
 [ ] UiPath.Excel.Activities
 [ ] UiPath.System.Activities
 [ ] UiPath.UIAtomation.Activities
-
 * Refferal Links:
 > [UiAutoation in UI StudioX](https://docs.uipath.com/studiox/v2019/docs/tutorial-working-with-ui-automation)
