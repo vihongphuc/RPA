@@ -18,8 +18,8 @@
 * UiPath see the Remote Desktop as an Image. So this CV is one of the best tool to determine which is exactly our element working with.
 * We have one workflow covering on 03 main tasks(sequences)
 	** Open Remote Desktop(RDP)
-	** Open webform in RDP, input data to text box and select on item in combobox.
-	** Open webform in RDP, extract table data in picture and save it to excel file.
+	** Open [webform](https://formsmarts.com/html-form-example) in RDP, input data to text box and select on item in combobox.
+	** Extract [table data in picture](https://dbbpm3ytedt1jhvea17qwiw1-wpengine.netdna-ssl.com/wp-content/uploads/www.displayr.com/wp-content/uploads/2017/10/ca1.png) and save it to excel file in RDP.
 * Make sure those below packages installed:
 [ ] UiPath.Excel.Activities
 [ ] UiPath.System.Activities
