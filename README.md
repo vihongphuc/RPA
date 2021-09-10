@@ -46,7 +46,7 @@
 * Refferal Links:
 
 
-## III. ComputerVisionFeatures project
+## V. ComputerVisionFeatures project
 * It handles 03 main task on below:
 [ ] 1) Print 2 sheets from the Excel spreadsheet to PDF and merge the PDF
 [ ] 2) Export another sheet to CSV file
@@ -64,4 +64,18 @@
 > [User SMTP in UiPath](https://forum.uipath.com/t/send-smtp-mail-message-using-gmail/1256)
 > [Config GMail to used in ton UiPath](https://docs.uipath.com/installation-and-upgrade/docs/studio-enabling-gmail-for-email-activities)
 > [Enable 2 Steps Authorization in GMail](https://support.google.com/accounts/answer/185839)
+
+## VI. AddDataToOrchestratorQueue project
+* How to add data to the Orchestrator Queue
+[ ] Create one Queue in Orchestrator
+    Home/Orchestrator Services/Click on Talent Name/Click To Queue ==> Create as normal
+[ ] Reading data in excel file.
+[ ] Push all data to that quere
+
+* Make sure those below packages installed:
+[ ] UiPath.System.Activities
+[ ] UiPath.UIAtomation.Activities
+[ ] ExceltoPDFConversion.Activities
+
+* Refferal Links:
 
