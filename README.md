@@ -36,3 +36,32 @@
 [ ] UiPath.UIAtomation.Activities
 * Refferal Links:
 > [UiAutoation in UI StudioX](https://docs.uipath.com/studiox/v2019/docs/tutorial-working-with-ui-automation)
+
+## IV. UIAutomationRDP project
+*Do the same job of project: UIAutomation which running in the Remote Desktop from machine running RPA.
+* Make sure those below packages installed:
+[ ] UiPath.Excel.Activities
+[ ] UiPath.System.Activities
+[ ] UiPath.UIAtomation.Activities
+* Refferal Links:
+
+
+## III. ComputerVisionFeatures project
+* It handles 03 main task on below:
+[ ] 1) Print 2 sheets from the Excel spreadsheet to PDF and merge the PDF
+[ ] 2) Export another sheet to CSV file
+[ ] 3) Send e-mail(on Gmail) to respondents with standardised text andattached csv inside.
+
+* Make sure those below packages installed:
+[ ] UiPath.Excel.Activities
+[ ] UiPath.PDF.Activities
+[ ] UiPath.Mail.Activities
+[ ] UiPath.System.Activities
+[ ] UiPath.UIAtomation.Activities
+[ ] ExceltoPDFConversion.Activities
+
+* Refferal Links:
+> [User SMTP in UiPath](https://forum.uipath.com/t/send-smtp-mail-message-using-gmail/1256)
+> [Config GMail to used in ton UiPath](https://docs.uipath.com/installation-and-upgrade/docs/studio-enabling-gmail-for-email-activities)
+> [Enable 2 Steps Authorization in GMail](https://support.google.com/accounts/answer/185839)
+
